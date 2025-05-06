@@ -1,0 +1,6 @@
+Lab 1:
+Teachable Machine
+https://teachablemachine.withgoogle.com/
+
+Fruits Classification
+https://www.kaggle.com/datasets/bramar/fruits-classification
