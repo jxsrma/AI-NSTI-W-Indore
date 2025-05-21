@@ -1,0 +1,46 @@
+A. Data Preparation
+Load the dataset using Pandas.
+ 
+Print the first 5 rows.
+ 
+Check for null values.
+ 
+Plot histograms of each feature to understand distributions.
+ 
+Normalize features using MinMaxScaler.
+ 
+B. Train/Test Split
+Split dataset into training (80%) and testing (20%).
+ 
+Separate input features (X) and target (y).
+ 
+C. Model Design (Sequential + Dense)
+Build a Sequential model with 2 hidden layers.
+ 
+Explain the choice of ReLU as activation.
+ 
+Add the final output layer for regression.
+ 
+D. Model Compilation
+Compile the model with optimizer and loss.
+ 
+E. Model Training
+Train model for 50 epochs, batch size = 32.
+ 
+Include a validation split of 10%.
+ 
+Visualize training and validation loss.
+ 
+F. Model Evaluation
+Evaluate on test set.
+ 
+Predict on test set and compare with true values.
+ 
+Calculate RMSE manually.
+ 
+G. Model Improvement
+Add dropout and observe changes in performance.
+ 
+Try increasing epochs to 100 and compare loss curve.
+ 
+Use EarlyStopping callback to prevent overfitting.
