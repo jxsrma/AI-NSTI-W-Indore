@@ -1,0 +1,33 @@
+Link:
+https://demos.explosion.ai/displacy-ent
+
+
+PERSON:      People, including fictional.
+NORP:        Nationalities or religious or political groups.
+FAC:         Buildings, airports, highways, bridges, etc.
+ORG:         Companies, agencies, institutions, etc.
+GPE:         Countries, cities, states.
+LOC:         Non-GPE locations, mountain ranges, bodies of water.
+PRODUCT:     Objects, vehicles, foods, etc. (Not services.)
+EVENT:       Named hurricanes, battles, wars, sports events, etc.
+WORK_OF_ART: Titles of books, songs, etc.
+LAW:         Named documents made into laws.
+LANGUAGE:    Any named language.
+DATE:        Absolute or relative dates or periods.
+TIME:        Times smaller than a day.
+PERCENT:     Percentage, including ”%“.
+MONEY:       Monetary values, including unit.
+QUANTITY:    Measurements, as of weight or distance.
+ORDINAL:     “first”, “second”, etc.
+CARDINAL:    Numerals that do not fall under another type.
+
+Text 1: 
+Railway traffic on the Kozhikode-Shoranur route in Kerala was disrupted for three hours on Tuesday (May 27, 2025) morning after two trees fell on the railway line near Areekkad in Kozhikode around 8 a.m.
+
+The trees have been cut and removed under the aegis of the Fire and Rescue Services department. The electric lines of the railways that were damaged in the mishap were repaired by railway officials. The rail traffic was restored completely by 11 a.m.
+
+Text 2: 
+IN THE MATTER OF a proposed contract between the Department of Citywide Administrative Services of the City of New York and Tesla, Inc., located at 3500 Deer Creek Rd., Palo Alto, CA 94304, for procuring Tesla Model 3 All-Electric Sedans. The contract is in the amount of $12,360,000.00. The term of the contract shall be five years from date of Notice of Award. The proposed contractor has been selected by Sole Source Procurement Method, pursuant to Section 3-05 of the Procurement Policy Board Rules. If the plan does go through, the $12.36 million could effectively purchase about 274 units of the base Model 3 Rear-Wheel-Drive, which cost $44,990 under Tesla's current pricing structure.
+
+Text 3: 
+The "pursuit of happiness" refers to the fundamental right to pursue a meaningful life, as stated in the Declaration of Independence. It's a concept that emphasises individual liberty and the freedom to choose one's own path to well-being, not just a guarantee of happiness itself. The phrase has its roots in the writings of John Locke and the Founding Fathers, who understood it as the right to live in accordance with natural law and achieve a flourishing existence. 
