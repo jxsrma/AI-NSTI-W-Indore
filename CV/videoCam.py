@@ -13,9 +13,13 @@ if not caps.isOpened():
    
 while True:
     status,image=caps.read()
+    print(status)
     if not status:
         break
-    cv2.imshow("windows",cv2.flip(image,1))
+    
+    # For Mirror Image in Webcam
+    # cv2.imshow("windows",cv2.flip(image,1))
+    cv2.imshow("windows",image)
     if cv2.waitKey(25) & 0xFF==ord('q'): 
         caps.release()
         break
