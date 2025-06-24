@@ -1,6 +1,6 @@
 import cv2
 # Load video
-cap = cv2.VideoCapture('CV\\vid.mp4')
+cap = cv2.VideoCapture('CV\\Plane.mp4')
 # Read the first frame
 ret, frame = cap.read()
 # Select ROI (x, y, width, height)
